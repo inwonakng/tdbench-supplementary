@@ -1,4 +1,4 @@
-# Supplementary Materials for TDBench: Tabular Data Distillation Benchmark
+# Supplementary Materials for "TDBench: Tabular Data Distillation Benchmark"
 
 ## Files
 
@@ -16,7 +16,6 @@ These files are not included in the repository due to their sizes.
 - `enc_stats.csv`
   - Contains statistics of the encoder models.
   - Download link: [https://drive.google.com/file/d/1u3SsQ9p3OiiOX1AakbnJqQIYx5AfYA7d/view?usp=share_link](https://drive.google.com/file/d/1u3SsQ9p3OiiOX1AakbnJqQIYx5AfYA7d/view?usp=share_link)
-
 
 **Scripts**
 
